@@ -1,14 +1,12 @@
-# Sample-Averages-
-Sample Averages
-# Time-Series-Averaging-Using-Multi-Tasking-Autoencoder
-The provided scripts are the implmentation for the concepts presented in the paper "Time Series Averaging Using Multi-Tasking Autoencoder"; presented at ICTAI 2020.
+
+# TEstimating Time Series Averages from Latent Space of Multi-tasking Neural Networks.
 
 # Description:
 <p align="justify">
 In this page, we present some examples demonstrating means estimated by our proposed approaches. To estimate the means, we used the train split of the UCR archive. However, in the plots, the time series ploted using silver colour are extracted from the test split. Moreover, the time seires in blue indicates the averages estimated from the training split. 
   
-# Demonstration of the Problem:
-![Demonstration of the Problem](https://raw.githubusercontent.com/tsegaterefe/Time-Series-Averaging-Using-Multi-Tasking-Autoencoder/master/Images/Discription%20of%20the%20Problem.png)
+# The UCR CBF Ddataset: Number of classes 3
+![The UCR CBF Ddataset](CBF.png)
 
 # Proposed Archtecture: 
 ![Demonstration of Results](https://github.com/tsegaterefe/Time-Series-Averaging-Using-Multi-Tasking-Autoencoder/blob/master/Images/Proposed%20Archtecture.png)
