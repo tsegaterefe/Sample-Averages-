@@ -33,7 +33,7 @@ This research was conducted under the Ethio-France PhD. Program which is finance
 </p>
 <ol>  
 <li>The former Ethiopian Ministery of Science and Higher Education (MOSHE)</li>
-<li>The French Embassy to Ethiopia and African Union.</li>
+<li>The French Government through the French Embassy to Ethiopia and African Union.</li>
 </ol>  
 <p align="justify">  
 We would like to acknowledge both parties for their generous contributions. 
